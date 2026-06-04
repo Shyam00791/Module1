@@ -19,3 +19,4 @@ a=int(input()) if(a%2==0): print("EVEN") else: print("ODD")
 <img width="467" height="373" alt="image" src="https://github.com/user-attachments/assets/041041c6-84eb-4905-b98a-68c04d88f8f3" />
 
 ## Result
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
